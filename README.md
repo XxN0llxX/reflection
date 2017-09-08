@@ -5,3 +5,4 @@ rmdir = remove directory
 cd = change directory
 ls= list
 ~= home
+pico = change words in document
