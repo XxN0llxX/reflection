@@ -1,3 +1,7 @@
 #  end of first week
 ## 9/8/2017
-contents
+mkdir = make directory
+rmdir = remove directory
+cd = change directory
+ls= list
+~= home
