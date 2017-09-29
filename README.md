@@ -23,3 +23,9 @@ make it say stuff like hello world how are you doing today _____(name)
 this week in python we learned how to make strings and we had also learned
 on how to make a list and we learned on how to make the type of math
 and work it on python2
+
+---
+
+# End of 4th week
+## 9/29/17
+this week in computer programming we learned on how to make a website say things and how to use that to our advantages.
