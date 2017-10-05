@@ -29,3 +29,10 @@ and work it on python2
 # End of 4th week
 ## 9/29/17
 this week in computer programming we learned on how to make a website say things and how to use that to our advantages.
+
+---
+
+# End of 5th week
+## 10/5/17
+This week in computer programming we learned on how to make html websites
+lists and i  learned on how to add videos to my website.
