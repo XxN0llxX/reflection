@@ -35,4 +35,14 @@ this week in computer programming we learned on how to make a website say things
 # End of 5th week
 ## 10/5/17
 This week in computer programming we learned on how to make html websites
-lists and i  learned on how to add videos to my website.
+lists and i  learned on how to add videos to my website, we had also learned on how to make websites run, i went on my own and started makiing my own chat related site
+
+---
+
+# End of 6th Week
+## 10/13/17
+This week during school in class we had learned on how to make lists and also how to make checklists for our websites we had 
+also learned on how to make things a lot more organized and look nice, i had also learned on how to use 
+css and also make other things- like we had also learned on how to make code for lists that we could make 
+people check what they wanted to get i had also learned on how to chat boxes and submit boxes
+
