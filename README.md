@@ -46,3 +46,7 @@ also learned on how to make things a lot more organized and look nice, i had als
 css and also make other things- like we had also learned on how to make code for lists that we could make 
 people check what they wanted to get i had also learned on how to chat boxes and submit boxes
 
+
+# End of 7th week
+## 10/27/17
+this week we had started making our own hobby websites, i started a battle with avante siller with who could make the better website, right now my website is in it's early stages, so it doesn't look very good right now, but its getting there
