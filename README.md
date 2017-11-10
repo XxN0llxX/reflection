@@ -57,3 +57,10 @@ this week we had started making our own hobby websites, i started a battle with 
 This week all we had been doing this week was work on PuTTy and work on our websites
 even though I didn't win the website make off I was still pretty close to winning or so I hoped
 but next time I will win. And thats a fact
+
+
+# End of 10th
+## 11/10/17
+
+This week ion computer progrmamming i learned on how to make c00l things like a LOGO 
+we had used html 5 to make the logo and after that i learned on how to make it a gradient.
