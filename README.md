@@ -64,3 +64,10 @@ but next time I will win. And thats a fact
 
 This week ion computer progrmamming i learned on how to make c00l things like a LOGO 
 we had used html 5 to make the logo and after that i learned on how to make it a gradient.
+
+
+# End of 12th 
+## 12/01/17
+
+This week in computer programming we had learned oin how to merge things with other people and how to use this stuff to our advantage, the way we had done this is with the history project that we haed done and made on the week before break
+I had also helped fix this document with all of the parts and pieces and helped communicate with my group via iphone/google which had made this awesome and i had also made the titkle page and helped people fix there stuff on the website.
