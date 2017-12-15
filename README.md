@@ -71,3 +71,17 @@ we had used html 5 to make the logo and after that i learned on how to make it a
 
 This week in computer programming we had learned oin how to merge things with other people and how to use this stuff to our advantage, the way we had done this is with the history project that we haed done and made on the week before break
 I had also helped fix this document with all of the parts and pieces and helped communicate with my group via iphone/google which had made this awesome and i had also made the titkle page and helped people fix there stuff on the website.
+
+
+# End of Week 13
+## 12/08/17
+
+This week in POE we had learned to do some bootstrap which shrinks the page that you are using to become intyo a phone screen so that everybody will be able to us it from tyheir phone or from their computers
+we had also done a lot more work on the website and we had included bootstrap into it so it would be able to work on our phones.
+
+
+# End of Week 14
+## 12/15/17
+
+This week in POE we had continued making our fall2017 history project better and better and
+we had continued adding on to the webs8ite and fixing all of our problems opn the website and i had figured out the color code to the sjnma purple and gold.
